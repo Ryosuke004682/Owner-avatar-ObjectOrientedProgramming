@@ -1,0 +1,8 @@
+C:\programing\ObjectOrientedProgramming_C#\ObjectOrientedProgram\bin\Debug\ObjectOrientedProgram.exe.config
+C:\programing\ObjectOrientedProgramming_C#\ObjectOrientedProgram\bin\Debug\ObjectOrientedProgram.exe
+C:\programing\ObjectOrientedProgramming_C#\ObjectOrientedProgram\bin\Debug\ObjectOrientedProgram.pdb
+C:\programing\ObjectOrientedProgramming_C#\ObjectOrientedProgram\obj\Debug\ObjectOrientedProgram.csproj.AssemblyReference.cache
+C:\programing\ObjectOrientedProgramming_C#\ObjectOrientedProgram\obj\Debug\ObjectOrientedProgram.csproj.SuggestedBindingRedirects.cache
+C:\programing\ObjectOrientedProgramming_C#\ObjectOrientedProgram\obj\Debug\ObjectOrientedProgram.csproj.CoreCompileInputs.cache
+C:\programing\ObjectOrientedProgramming_C#\ObjectOrientedProgram\obj\Debug\ObjectOrientedProgram.exe
+C:\programing\ObjectOrientedProgramming_C#\ObjectOrientedProgram\obj\Debug\ObjectOrientedProgram.pdb
