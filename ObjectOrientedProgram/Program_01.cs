@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace ObjectOrientedProgram
 {
-    internal class Program_01
-    {
-        static void Main(string[] args)
-        {
+    internal class Program_01 {
+        static void Main(string[] args) {
             Person person = new Person();
 
             person.Name = "斎藤さん";
@@ -23,22 +21,19 @@ namespace ObjectOrientedProgram
     }
 
     //オブジェクト指向の基本概念。
-    public class Person
-    {
+    public class Person {
         private string name;//名前という属性
         private string address;//アドレスという属性
 
 
         /*PersonClassが持つ振る舞い*/
         //こいつらを呼び出すことで、Objectの属性の値を調べたり、変更したりできる。
-        public string Name
-        {
+        public string Name {
             get { return name; }
             set { name = value; }
         }
 
-        public string Address
-        {
+        public string Address {
             get { return address; }
             set { address = value; }
         }
