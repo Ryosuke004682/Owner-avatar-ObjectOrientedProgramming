@@ -8,14 +8,14 @@ namespace ObjectOrientedProgram
 {
     internal class Program_02
     {
-        static void Main(string[] args) {
-            IntSquareValue squareValue = new IntSquareValue();
-            squareValue.SquareValue = 10;
+        //static void Main(string[] args) {
+        //    IntSquareValue squareValue = new IntSquareValue();
+        //    squareValue.SquareValue = 10;
 
-            Console.WriteLine($"calc : {squareValue.SquareValue}");
+        //    Console.WriteLine($"calc : {squareValue.SquareValue}");
 
-            while (true) ;
-        }
+        //    while (true) ;
+        //}
     }
 
     public class IntSquareValue {

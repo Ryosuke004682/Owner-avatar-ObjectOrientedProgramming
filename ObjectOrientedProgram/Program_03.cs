@@ -38,25 +38,25 @@ namespace ObjectOrientedProgram
 
     internal class Program_03
     {
-        static void Main(string[] args)
-        {
+        //static void Main(string[] args)
+        //{
 
-            Stack<Shape> stack = new Stack<Shape>();
+        //    Stack<Shape> stack = new Stack<Shape>();
 
-            Circle circle = new Circle(5);
-            Rectangle rectangle = new Rectangle(2, 5);
+        //    Circle circle = new Circle(5);
+        //    Rectangle rectangle = new Rectangle(2, 5);
 
-            stack.Push(circle);
-            stack.Push(rectangle);
+        //    stack.Push(circle);
+        //    stack.Push(rectangle);
 
-            while (stack.Count > 0)
-            {
-                Shape shape = stack.Pop();
-                Console.WriteLine($"Shape Area : {shape.getArea()}");
-            }
+        //    while (stack.Count > 0)
+        //    {
+        //        Shape shape = stack.Pop();
+        //        Console.WriteLine($"Shape Area : {shape.getArea()}");
+        //    }
 
-            while (true) ;
-        }
+        //    while (true) ;
+        //}
     }
 
 }

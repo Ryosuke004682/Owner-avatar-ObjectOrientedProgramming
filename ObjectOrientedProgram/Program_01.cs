@@ -7,17 +7,17 @@ using System.Threading.Tasks;
 namespace ObjectOrientedProgram
 {
     internal class Program_01 {
-        static void Main(string[] args) {
-            Person person = new Person();
+        //static void Main(string[] args) {
+        //    Person person = new Person();
 
-            person.Name = "斎藤さん";
-            person.Address = "東京都";
+        //    person.Name = "斎藤さん";
+        //    person.Address = "東京都";
 
-            Console.WriteLine($"Name : {person.Name}");
-            Console.WriteLine($"Address : {person.Address}");
+        //    Console.WriteLine($"Name : {person.Name}");
+        //    Console.WriteLine($"Address : {person.Address}");
 
-            while (true) ;
-        }
+        //    while (true) ;
+        //}
     }
 
     //オブジェクト指向の基本概念。
